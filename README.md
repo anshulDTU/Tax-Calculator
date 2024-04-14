@@ -1,5 +1,5 @@
 # Tax-Calculator  
-[https://anshuldtu.github.io/Tax-Calculator/](url)
+https://anshuldtu.github.io/Tax-Calculator/
 ## Challenge outline: Tax Calculator
 
 Design a website that allows for tax calculation based on a users input.
